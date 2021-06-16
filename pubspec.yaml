@@ -1,0 +1,12 @@
+name: fhir_twilio
+environment:
+  sdk: ">=2.13.0 <3.0.0"
+
+dependencies:
+  cron: ^0.3.0
+  fhir: ^0.4.7
+  fhir_at_rest: ^0.4.5
+  intl: ^0.17.0
+  yaml: ^3.1.0
+
+
